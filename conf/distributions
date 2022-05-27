@@ -1,7 +1,7 @@
 Label: deepin-apricot
-Codename: commit
-Version: 2021
-Update: commit
+Codename: buster
+Version: 2022
+Update: buster
 Architectures: amd64 source
 Components: main
 UDebComponents: main
@@ -11,4 +11,34 @@ Contents: percomponent nocompatsymlink .bz2
 #DscIndices: Sources Release .gz
 #SignWith: pkg-builder@packages.linuxdeepin.com
 Description: Deepin debian packages
-Log: commit.log
+Log: buster.log
+
+Label: deepin-apricot
+Codename: bullseye
+Version: 2022
+Update: bullseye
+Architectures: amd64 source
+Components: main
+UDebComponents: main
+#Acquire-By-Hash: yes
+Contents: percomponent nocompatsymlink .bz2
+#ContentsComponents: main contrib non-free
+#DscIndices: Sources Release .gz
+#SignWith: pkg-builder@packages.linuxdeepin.com
+Description: Deepin debian packages
+Log: bullseye.log
+
+Label: deepin-apricot
+Codename: sid
+Version: 2022
+Update: sid
+Architectures: amd64 source
+Components: main
+UDebComponents: main
+#Acquire-By-Hash: yes
+Contents: percomponent nocompatsymlink .bz2
+#ContentsComponents: main contrib non-free
+#DscIndices: Sources Release .gz
+#SignWith: pkg-builder@packages.linuxdeepin.com
+Description: Deepin debian packages
+Log: sid.log
