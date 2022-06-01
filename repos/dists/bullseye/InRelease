@@ -4,7 +4,7 @@ Hash: SHA512
 Label: deepin-apricot
 Codename: bullseye
 Version: 2022
-Date: Wed, 01 Jun 2022 05:19:51 UTC
+Date: Wed, 01 Jun 2022 05:37:52 UTC
 Architectures: amd64
 Components: main
 Description: Deepin debian packages
@@ -43,12 +43,12 @@ SHA256:
  e5f0211b0bab095d3a51ea1a59322cad186342a25c9b45d0a479178cb63c32ec 107485 main/Contents-amd64.bz2
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEGVp4BqqzpGayaby4BuuCvsNrV6cFAmKW9vcACgkQBuuCvsNr
-V6c1RQf/XkLdsJQHCeylXPhFFAK6Q0TRjmE1u/2hVJhCbqDhOeDfCFrBVqFVimBI
-wqOw7PN4kxqctsFenb/+GLN3f+rWPDnw4d3HLW1l+OxIlWop2aR/7b2zKYVtPvT+
-WAEImoB2EUZxngVBvElNFDCDxXni9UQ5qu27PVAT0qehi3zzD9MuA3JgNUguHqHe
-HQKOy1EUXjy44d+ZVGTs9t4J6OEjWOlpX1GE7CazpVDSv6jdj1mkh3lxY2ifylAL
-34GquwSIk7TnE3rkJW3yheRAjx6zHZbpoxPCNl++80KlHj4ehc/ESFcsGIfmfcgC
-DcjYwVRiPUplhMqFqb5picB8TxFVaQ==
-=rmjq
+iQEzBAEBCgAdFiEEGVp4BqqzpGayaby4BuuCvsNrV6cFAmKW+zAACgkQBuuCvsNr
+V6f3Ogf/StlRPjbpiheOMeOTvG6YDntMgz8L0jSKOzGqm0k8l/rd+E12nTWYcg/U
+qN6CroFe9FPk6iuggyJtB/UtbiruhTwEOG6zRPuFKMaXTeaWQlZF+1zemqhs1Pze
+zaP30jr3UbuQQBpZxZSplnZtM4X8MX27j4HBKPxAa9U8j7YJUU6+7KRhDjB48kwj
+aJFQA5XyPu8UEP71jFSqXNHmq+fMuaPmY6MtP5MRtCuM+mNhzfVqjRs9mxlhT4VE
+ucZugQtCyEmIV64qrIm1h0V9dMHaIj0iIV0sDhWc/ESQ1WtDzZxhXbZIf0sjQ/zV
+z3WUlzDIs7ox1Ro7wCmCMEi4UhF8iQ==
+=OU6g
 -----END PGP SIGNATURE-----
