@@ -24,7 +24,7 @@ UDebComponents: main
 Contents: percomponent nocompatsymlink .bz2
 #ContentsComponents: main contrib non-free
 #DscIndices: Sources Release .gz
-#SignWith: pkg-builder@packages.linuxdeepin.com
+SignWith: 1F149731B79FBEA00A5408D11C3630ACA1A2BB41
 Description: Deepin debian packages
 Log: bullseye.log
 

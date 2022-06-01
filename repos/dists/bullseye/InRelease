@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Label: deepin-apricot
 Codename: bullseye
 Version: 2022
@@ -38,3 +41,14 @@ SHA256:
  106fc0c21704c242ccfe742957edc90d3e4ca9a3d59179bd2edae904c3719dae 109 main/source/Release
  c37ea7c61b85db81f84fc1aedcad500955a5ed66c689ad2cd10081330ff7bea3 2718521 main/Contents-amd64
  bb30ed28e5f3276ca3ca3fbbd661552d471a4424f449b832c366d46886e401f0 101399 main/Contents-amd64.bz2
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEGVp4BqqzpGayaby4BuuCvsNrV6cFAmKW8/AACgkQBuuCvsNr
+V6fuDwf9EMFUsCMd/wqfjK2K/8frrWjnF+PapsUUDe/DoIK4pRRNlCpbEOTTPfvP
+XUfaGj/yXUR17meBbSOlmb1PR7Gzb6paT33pzhMKsYe4tK9ns6h1xqfZS1VLuqlz
+zKbIRY4KEicgfkKdKmFp0qMnnD2Xw4y+K7y8rUFizeUqh1UgvjxT/bAd/qhfYXxk
+n00/CJw8BGs1/5GWbVsJWMv9NAb7CmcnIszcRi5+COyfDgYNa2OqxtkaeqPpsObe
+2VuJ16I+TMHoKXwSp2DUGV8Cewg93nRGJSQ10wU9qpnTtSdVFoF74jAEYoUl8w04
+R00S9WRjuSmBcLCGFqO0GcX47A8sEw==
+=5jBW
+-----END PGP SIGNATURE-----
